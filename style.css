@@ -1,0 +1,197 @@
+/* .row
+{
+    display: grid;
+    grid-template-columns: 1 fr 300px;
+    background-color: antiquewhite;
+} */
+
+/* .gradient
+{
+    background-image : liner-gradient(#c9cdd4,#aeb0b5,red);
+} */
+
+.body
+{
+    border: 3px solid black;
+}
+
+.email
+{
+    margin-left: 8px;
+    /* background-color: bisque; */
+   
+}
+.para
+{
+    margin:-1px
+}
+.icon1
+{
+    height:12px;
+    width:12px;
+    margin-top: 8px;
+    margin-left:6px
+}
+
+.Internal_div
+{
+    /* background-color: aquamarine; */
+    display: inline-flex;
+    margin:0 !important;
+}
+.Internal_div2
+{
+    /* background-color: aquamarine; */
+    display: inline-flex;
+    margin-top: 2px;
+
+    
+
+}
+a:link{
+    text-decoration: none;
+   font-style: normal;
+   color: black;
+
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+
+h5,h6{
+    font-size: small;
+    /* font-family:; */
+    font-weight: bold;
+    margin:0;
+}
+p{
+
+     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-style: normal;
+     font-weight: 300;
+     /* color: red; */
+     /* font-weight: bold; */
+     
+}
+.p1
+{
+    margin:0 !important;
+    font-size: smaller;
+}
+li{
+    font-size: smaller;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Internal_div3
+{
+    display: inline-flex; 
+}
+.icon3
+{
+    height:24px;
+    width:24px;
+    margin-top: 3px;
+    margin-left:6px;
+    /* background-color: royalblue; */
+}
+
+.education
+{
+    margin-left: 8px; 
+    margin-top: 2px; 
+    /* background-color: royalblue;  */
+}
+
+.collge_school
+{
+    margin:0 !important;
+}
+.collegehead
+{
+    margin:0 !important;   
+}
+
+.icon4
+{
+    height:18px;
+    width:18px;
+    margin-top: 3px;
+    margin-left:6px;
+    /* background-color: royalblue; */
+}
+.problem solving
+{
+
+    font-size: 10px;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+.technicalskills
+{
+    margin-left: 9px; 
+    /* margin-bottom: 19%;   */
+    /* background-color: aqua;   */
+}
+
+.projectdiv
+{
+    /* margin:0 !important;  */
+    display: flex;
+      
+
+}
+.cloud
+{
+    /* margin:0 !important;    */
+}
+.pro2
+{
+    /* margin-bottom: 43px; */
+    margin-left: 12px;
+    margin-bottom: 2px;
+    /* background-color: blue; */
+   
+    /* margin:0 !important;  */
+    
+}.pro1
+{
+    /* margin-top: 1px; */
+    /* margin-bottom: 2px; */
+    /* margin:0 !important;  */
+    /* background-color: red; */
+}
+
+.projectdiv1
+{
+    /* margin:0 !important;  */
+    display: flex;
+   
+}
+.common
+{
+    font-weight: bold;
+    font-size: smaller;
+    margin-top: 4px;
+    align-self: center;
+    /* margin:0 !important;  */
+
+}
+.icon5
+{
+    height:18px;
+    width:18px;
+    margin-top: 6px;
+    margin-left:8px;
+
+}
+.certificate3
+{
+    margin-right: 5px;
+}
